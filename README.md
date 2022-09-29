@@ -1,3 +1,3 @@
 # New-World-
-My first repository
-I love :music: and :gaming:
+My first repository on GitHub
+I love :notes: 
